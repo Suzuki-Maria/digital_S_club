@@ -1,0 +1,5 @@
+.products img{
+    width: 210px;
+    height: 296px;
+    object-fit: contain;
+}
